@@ -1,5 +1,23 @@
 <resources>
-    <string name="app_name">Slideshow App</string>
-    <string name="previous">Previous</string>
-    <string name="next">Next</string>
+    <string name="app_name">Famous Quotes</string>
+    <string name="caption1">"I say 'try'; if we never try, we shall never succeed."</string>
+    <string name="caption2">"An eye for an eye will only make the whole world blind."</string>
+    <string name="caption3">"Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning."</string>
+    <string name="caption4">"Impossible is a word to be found only in the dictionary of fools."</string>
+    <string name="caption5">"At his best, man is the noblest of all animals; separated from law and justice he is the worst."</string>
+    <string name="caption6">"The only thing we have to fear is fear itself."</string>
+    <string name="caption7">"There are no facts, only interpretations."</string>
+    <string name="caption8">"Good friends, good books, and a sleepy conscience: this is the ideal life."</string>
+    <string name="caption9">"The fool doth think he is wise, but the wise man knows himself to be a fool."</string>
+    <string name="caption10">"Once you learn to read, you will be forever free."</string>
+    <string name="person1">Abraham Lincoln</string>
+    <string name="person2">Mahatma Gandhi</string>
+    <string name="person3">Albert Einstein</string>
+    <string name="person4">Napoleon Bonaparte</string>
+    <string name="person5">Aristotle</string>
+    <string name="person6">Franklin D. Roosevelt</string>
+    <string name="person7">Friedrich Nietzsche</string>
+    <string name="person8">Mark Twain</string>
+    <string name="person9">William Shakespeare</string>
+    <string name="person10">Frederick Douglass</string>
 </resources>
